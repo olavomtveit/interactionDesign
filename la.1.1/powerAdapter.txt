@@ -1,0 +1,19 @@
+Lesson Assignment 1.1
+
+User's goals: 
+Be able to easily turn on and off the power cord with my feet so it can be "hidden" under my desktop. 
+It will make it less costly and safer if it can easily be turned off. 
+
+Constraints: 
+It has a short power cord, and could use 1-2 more sockets. When used for a dekstop setup, 4 sockets will quickly be filled.
+
+Design limitations: 
+There's no indication that shows the user if the power is on or off. 
+
+How to improve design: 
+I have two ways to improve the design.
+1. When you press the button and turn it on it should give a blue light to indicate that it is on.
+2. When you press the button and turn it on the button should "stay down" a bit so it indicates it is turned on. 
+
+Note: The on/off button is colored blue so it tricks the user into thinking it will light up when turned on.
+Which is why I bought it in the first place. #falseadvertising
